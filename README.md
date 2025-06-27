@@ -1,11 +1,11 @@
 # DSA-Data-Analysis-Capstone-Project
-# 🛒 Amazon Product Review Analysis – DSA Capstone Project
+# Amazon Product Review Analysis 🛒– DSA Capstone Project
 
 This project is part of my Digital SkillUp Africa (DSA) Capstone and focuses on conducting exploratory data analysis (EDA) on Amazon product and review data. The goal is to extract insights for business decisions in product pricing, customer satisfaction, marketing, and performance evaluation.
 
 ---
 
-## 📁 Project Overview
+## Project Overview 📁 
 
 This case study analyzes customer reviews and product attributes from Amazon. The dataset includes over **1,400 products**, with data on ratings, pricing, discounts, and review metrics.
 
@@ -21,7 +21,7 @@ This case study analyzes customer reviews and product attributes from Amazon. Th
 
 ---
 
-## 📊 Key Questions Answered
+## Key Questions Answered 📊
 
 1. Average discount percentage by category.
 2. Product count per category.
@@ -40,7 +40,7 @@ This case study analyzes customer reviews and product attributes from Amazon. Th
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used 🛠
 
 - Microsoft Excel (PivotTables, Charts, Formulas)
 - Data Cleaning and Transformation
@@ -49,7 +49,7 @@ This case study analyzes customer reviews and product attributes from Amazon. Th
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights 📈
 
 - **Interactive KPI Cards**: Total products, average rating, highest discount, most reviewed product.
 - **Charts**: Rating distribution, revenue by category, discount by category, top products.
