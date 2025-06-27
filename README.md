@@ -8,7 +8,7 @@ Welcome to my Data Analysis Capstone Project! This project is part of my Data Sc
 
 ## Project Overview
 
-This case study analyzes customer reviews and product attributes from Amazon. The dataset includes over **1,400 products**, with data on ratings, pricing, discounts, and review metrics.
+This case study analyses customer reviews and product attributes from Amazon. The dataset includes over **1,400 products**, with data on ratings, pricing, discounts, and review metrics.
 
 Each product includes information such as:
 - Price and Discount Percentage
@@ -21,7 +21,7 @@ The final deliverables include:
 - Insights summary
 - Pivot Table explorations
 - KPI metrics
-- A dashboard visualizing key metrics
+- A dashboard visualising key metrics
 
 ---
 
@@ -30,7 +30,7 @@ The final deliverables include:
 - To identify top-performing products by rating and reviews
 - To compare actual prices to discounted prices
 - To estimate potential revenue across categories
-- To analyze the distribution of customer satisfaction
+- To analyse the distribution of customer satisfaction
 - To build an intuitive Excel dashboard for stakeholders
 
 ---
@@ -121,7 +121,7 @@ The Excel dashboard includes:
 
 ```
 
-Amazon\_CaseStudy\_Complete.xlsx 📦
+Cleaned_Amazon_Data.xlsx 📦
 ├── Cleaned Data
 ├── Analysis Summary
 ├── Dashboard (KPIs + Charts)
@@ -140,7 +140,7 @@ Additional Assets: 📁
 
 ## 📌 How to Use
 
-1. Open `Amazon_CaseStudy_Complete.xlsx`
+1. Open `Cleaned_Amazon_Data.xlsx`
 2. Explore the `Cleaned Data` tab for raw insights
 3. Review pivot analysis in the `Analysis Summary` tab
 4. Navigate to `Dashboard` for an overview of findings
@@ -162,34 +162,4 @@ Additional Assets: 📁
 Top student – Ladies in Tech Africa Bootcamp  
 Data Analysis Intern @ Code Alpha  
 📍Nigeria | #ThatTechieGirl  
-[LinkedIn]([https://www.linkedin.com/in/abimbolu-ogundele-299b71329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/your-profile-url])
-
----
-
-## 📢 License
-
-This project is developed as part of the DSA Capstone and may be reused with credit.
-
----
-
-```
-
----
-
-## ✅ Next Steps
-
-To complete your repo:
-
-1. 📤 **Upload your Excel file:** `Amazon_CaseStudy_Complete.xlsx`
-2. 📝 **Create a folder called `/assets`** and add:
-
-   * `dashboard_kpis.png`
-   * `rating_distribution_chart.png`
-   * `price_bucket_pie.png`
-   * `analysis_summary_preview.png`
-3. 📌 Copy and paste this README into your `README.md` file on GitHub
-4. ✨ Share your GitHub repo link on LinkedIn with the caption I gave earlier!
-
----
-
-Would you like me to design the actual banner image or provide the PNGs you can upload directly?
+[LinkedIn][(https://www.linkedin.com/in/abimbolu-ogundele-299b71329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] | [GitHub](https://github.com/your-profile-url]
