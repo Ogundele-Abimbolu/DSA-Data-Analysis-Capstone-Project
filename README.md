@@ -1,6 +1,6 @@
 ## Amazon Product Review Analysis – DSA Capstone Project
 ```markdown
-**Amazon Product Review Analysis – DSA Capstone Project
+## Amazon Product Review Analysis – DSA Capstone Project
 
 Welcome to my Data Analysis Capstone Project! This project is part of my Data Science Academy (DSA) Capstone and focuses on conducting exploratory data analysis (EDA) on Amazon product and review data. The goal is to extract actionable insights for business decisions in product pricing, customer satisfaction, marketing, and performance evaluation.
 
@@ -25,7 +25,7 @@ The final deliverables include:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - To identify top-performing products by rating and reviews
 - To compare actual prices to discounted prices
@@ -35,7 +35,7 @@ The final deliverables include:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel**
   - Data Cleaning
@@ -47,8 +47,8 @@ The final deliverables include:
 
 ---
 
-📌 The cleaned dataset is available in:  
-**`Cleaned Data` sheet of `Amazon_CaseStudy_Complete.xlsx`**
+The cleaned dataset is available in:  
+**`Cleaned Data` sheet of `Cleaned_Amazon_Data.xlsx`**
 
 ---
 
@@ -86,6 +86,7 @@ See: **`Analysis Summary` sheet**
 The Excel dashboard includes:
 
 ### Key Metrics (KPI Cards)
+
 | KPI                       | Value                      |
 |--------------------------|----------------------------|
 | Total Products           | 1,465                      |
@@ -114,36 +115,6 @@ The Excel dashboard includes:
 - **Product Count by Price Bucket**  
   *(Pie chart showing <₹200, ₹200–₹500, >₹500)*  
   📍**Insert image:** `price_bucket_pie.png`
-
----
-
-## File Structure 🗂️ 
-
-```
-
-Cleaned_Amazon_Data.xlsx 📦
-├── Cleaned Data
-├── Analysis Summary
-├── Dashboard (KPIs + Charts)
-├── Rating Distribution (For Chart Source)
-
-```
-
-Additional Assets: 📁
-- 📸 `/assets/dashboard_kpis.png`
-- 📸 `/assets/price_bucket_pie.png`
-- 📸 `/assets/potential_revenue_chart.png`
-- 📸 `/assets/rating_distribution_chart.png`
-- 📸 `/assets/analysis_summary_preview.png`
-
----
-
-## 📌 How to Use
-
-1. Open `Cleaned_Amazon_Data.xlsx`
-2. Explore the `Cleaned Data` tab for raw insights
-3. Review pivot analysis in the `Analysis Summary` tab
-4. Navigate to `Dashboard` for an overview of findings
 
 ---
 
