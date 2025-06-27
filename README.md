@@ -1,19 +1,14 @@
-Absolutely! Below is a **detailed GitHub report** (`README.md`) for your **Amazon Product Review Analysis**, designed to be **comprehensive**, **well-formatted**, and easy for others (e.g. recruiters or mentors) to navigate. I’ve also indicated **exact spots to include images** of your dashboard, charts, and key tables.
-
----
-
-## ✅ Final README.md for GitHub Repo
-
+## Amazon Product Review Analysis – DSA Capstone Project
 ```markdown
 # 📦 Amazon Product Review Analysis – DSA Capstone Project
 
-Welcome to my Data Analysis Capstone Project! This project explores Amazon product review data using Microsoft Excel, uncovering pricing strategies, discount behaviors, customer sentiment, and potential revenue insights. 
+Welcome to my Data Analysis Capstone Project! This project is part of my Data Science Academy (DSA) Capstone and focuses on conducting exploratory data analysis (EDA) on Amazon product and review data. The goal is to extract actionable insights for business decisions in product pricing, customer satisfaction, marketing, and performance evaluation.
 
 ---
 
 ## 📁 Project Overview
 
-This project is based on a case study provided during the **DSA Data Analysis Capstone**. It involves analyzing a dataset containing over 1,400 Amazon products across various categories.
+This case study analyzes customer reviews and product attributes from Amazon. The dataset includes over **1,400 products**, with data on ratings, pricing, discounts, and review metrics.
 
 Each product includes information such as:
 - Price and Discount Percentage
@@ -32,11 +27,11 @@ The final deliverables include:
 
 ## 🎯 Objectives
 
-- Identify top-performing products by rating and reviews
-- Compare actual prices to discounted prices
-- Estimate potential revenue across categories
-- Analyze the distribution of customer satisfaction
-- Build an intuitive Excel dashboard for stakeholders
+- To identify top-performing products by rating and reviews
+- To compare actual prices to discounted prices
+- To estimate potential revenue across categories
+- To analyze the distribution of customer satisfaction
+- To build an intuitive Excel dashboard for stakeholders
 
 ---
 
@@ -52,34 +47,22 @@ The final deliverables include:
 
 ---
 
-## 🧼 Data Cleaning & Transformation
-
-The raw dataset was cleaned using the following steps:
-
-- Converted string-based numeric columns (e.g. `rating_count`, `actual_price`) into numeric types
-- Created new calculated columns:
-  - `potential_revenue` = `actual_price × rating_count`
-  - `price_bucket` (categorized into <₹200, ₹200–₹500, >₹500)
-  - `rating_review_score` = `rating + (rating_count ÷ 10,000)`
-- Removed any anomalies or empty rows
-- Handled missing values for price or rating
-
 📌 The cleaned dataset is available in:  
 **`Cleaned Data` sheet of `Amazon_CaseStudy_Complete.xlsx`**
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 All 14 analytical questions from the case study were answered using pivot tables and calculated fields.  
 
-📄 See: **`Analysis Summary` sheet**  
-📸 *Include a screenshot of this sheet here*  
-📍**Image Example**: `analysis_summary_preview.png`
+See: **`Analysis Summary` sheet**  
+*Include a screenshot of this sheet here*  
+**Image Example**: `analysis_summary_preview.png`
 
 ---
 
-### 🔍 Questions Answered:
+### Questions Answered:
 
 1. Average Discount by Category  
 2. Product Count per Category  
@@ -98,11 +81,11 @@ All 14 analytical questions from the case study were answered using pivot tables
 
 ---
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 
 The Excel dashboard includes:
 
-### ✅ Key Metrics (KPI Cards)
+### Key Metrics (KPI Cards)
 | KPI                       | Value                      |
 |--------------------------|----------------------------|
 | Total Products           | 1,465                      |
@@ -134,11 +117,11 @@ The Excel dashboard includes:
 
 ---
 
-## 🗂️ File Structure
+## File Structure 🗂️ 
 
 ```
 
-📦 Amazon\_CaseStudy\_Complete.xlsx
+Amazon\_CaseStudy\_Complete.xlsx 📦
 ├── Cleaned Data
 ├── Analysis Summary
 ├── Dashboard (KPIs + Charts)
@@ -146,7 +129,7 @@ The Excel dashboard includes:
 
 ```
 
-📁 Additional Assets:
+Additional Assets: 📁
 - 📸 `/assets/dashboard_kpis.png`
 - 📸 `/assets/price_bucket_pie.png`
 - 📸 `/assets/potential_revenue_chart.png`
@@ -173,13 +156,13 @@ The Excel dashboard includes:
 
 ---
 
-## 👩‍💻 About Me
+## About Me 
 
-**Abimbolu Ogundele**  
+**I'm Abimbolu Ogundele**  
 Top student – Ladies in Tech Africa Bootcamp  
 Data Analysis Intern @ Code Alpha  
 📍Nigeria | #ThatTechieGirl  
-[LinkedIn](https://www.linkedin.com/in/your-profile-url) | [GitHub](https://github.com/your-profile-url)
+[LinkedIn]([https://www.linkedin.com/in/abimbolu-ogundele-299b71329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/your-profile-url])
 
 ---
 
