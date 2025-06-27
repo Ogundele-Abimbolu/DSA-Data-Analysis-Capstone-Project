@@ -11,13 +11,13 @@ This case study analyzes customer reviews and product attributes from Amazon. Th
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-- Understand product performance across different categories.
-- Analyze pricing strategies and discounts.
-- Identify top-rated and most-reviewed products.
-- Examine potential revenue opportunities.
-- Build a visual dashboard for business stakeholders.
+- To understand product performance across different categories.
+- To analyze pricing strategies and discounts.
+- To identify top-rated and most-reviewed products.
+- To examine potential revenue opportunities.
+- To build a visual dashboard for business stakeholders.
 
 ---
 
