@@ -6,7 +6,7 @@ Welcome to my Data Analysis Capstone Project! This project is part of my Data Sc
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 This case study analyzes customer reviews and product attributes from Amazon. The dataset includes over **1,400 products**, with data on ratings, pricing, discounts, and review metrics.
 
