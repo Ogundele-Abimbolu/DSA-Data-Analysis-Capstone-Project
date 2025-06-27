@@ -1,6 +1,6 @@
 ## Amazon Product Review Analysis – DSA Capstone Project
 ```markdown
-# 📦 Amazon Product Review Analysis – DSA Capstone Project
+**Amazon Product Review Analysis – DSA Capstone Project
 
 Welcome to my Data Analysis Capstone Project! This project is part of my Data Science Academy (DSA) Capstone and focuses on conducting exploratory data analysis (EDA) on Amazon product and review data. The goal is to extract actionable insights for business decisions in product pricing, customer satisfaction, marketing, and performance evaluation.
 
