@@ -12,7 +12,7 @@ This project involved analysing a dataset of Amazon products and customer review
 
 ## 1. The Starting Point
 
-I began with a raw dataset named [Amazon Case Study](Amazon case study (1).xlsx). This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
+I began with a raw dataset named [Amazon case study (1)](Amazon case study (1).xlsx). This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
 
 ## 2. Data Cleaning
 
@@ -28,13 +28,11 @@ For this project, the cleaned data is represented in the [Cleaned_Amazon_Data](C
 
 **Removing Duplicates:** We check for any identical product entries that might skew our results and remove them.
 
-**Creating New Information (Calculated Columns):** We also added new pieces of information that weren't directly in the original data but are very useful:
+**Creating New Information (Calculated Columns):** I also added new pieces of information that weren't directly in the original data but are very useful:
 
-**Discount Percentage:** We calculated how much discount each product had by comparing its original price to its discounted price. This helps us understand pricing strategies.
+**Discount Percentage:** I calculated how much discount each product had by comparing its original price to its discounted price. This helped me understand pricing strategies.
 
-**Total Potential Revenue:** This was calculated by multiplying actual_price by the rating_count. It gives us an idea of how much money a product could bring in based on its price and how many people have reviewed it (indicating popularity).
-
-## 3. Answering Key Business Questions with Data
+**Total Potential Revenue:** This was calculated by multiplying actual_price by the rating_count. It gave me an idea of how much money a product could bring in based on its price and how many people have reviewed it (indicating popularity).
 
 With my data clean and ready, I used a powerful tool called Pivot Tables and Calculated Columns to answer specific questions posed by the Amazon team. Think of a pivot table as a flexible summary tool that lets you quickly rearrange and summarise data in different ways to find patterns.
 
@@ -44,14 +42,12 @@ With my data clean and ready, I used a powerful tool called Pivot Tables and Cal
 
 Calculating the discount percentage per category helps Amazon understand which product categories frequently offer high discounts. It can inform pricing strategies and promotional campaigns. I was able to use a pivot table to group products by their category, and then calculated the average of the discount_percentage for each group.
 
-Resulting file: Product Category.csv (likely contains average discount per category)
-
+   ![average discount](Capture.PNG) 
 Insight: We can see which categories are most heavily discounted, which might indicate competitive pricing or clearance sales.
 
 **Question 2:** How many products are listed under each category?
-Why it's important: This gives Amazon an overview of its product catalogue's breadth and depth across different categories. It helps identify categories with a large or small number of offerings.
 
-How we answered it: A pivot table was used to count the number of unique products within each category.
+- Why it's important: This gives Amazon an overview of its product catalogue's breadth and depth across different categories. It helps identify categories with a large or small number of offerings. A pivot table was used to count the number of unique products within each category.
 
 Resulting file: Number of Product.csv
 
