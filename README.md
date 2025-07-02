@@ -2,6 +2,15 @@
 
 This project involved analysing a dataset of Amazon products and customer reviews to uncover valuable insights. The main goal was to understand product performance, customer sentiment, and market trends to help Amazon improve its products, refine marketing efforts, and boost customer engagement.
 
+## Table of Contents
+1. [The Starting Point: Raw Data
+](#The-Starting-Point:Raw-Data)
+2. [Cleaning Up the Data: Making Sense of It All](#Cleaning-Up-the-Data:Making-Sense-of-It-All)
+3. [What typically happens during data cleaning:](#What-typically-happens-during-data-cleaning)
+5. [Visualising the Story: The Dashboard](Visualising-the-Story:The-Dashboard)
+6. [Key Insights and Recommendations](key-insights-and-recommendations)
+  
+
 ## 1. The Starting Point: Raw Data
 
 I began with a raw dataset named [Amazon Case Study](Amazon case study (1).xlsx). This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
@@ -174,7 +183,7 @@ The image likely contains the summarised data points and metrics that were used 
 
 This visual representation makes it much easier for Amazon's team to quickly grasp the key findings and make informed decisions without needing to dig through spreadsheets.
 
-# 5. My Suggestions for Amazon
+# 5. Key Insights and Recommendations
 Based on all the analysis, here are some actionable suggestions for Amazon to guide product improvement, marketing strategies, and customer engagement:
 
 ## For Product Improvement:
