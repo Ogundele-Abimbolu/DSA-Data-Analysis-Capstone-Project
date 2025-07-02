@@ -3,18 +3,18 @@
 This project involved analysing a dataset of Amazon products and customer reviews to uncover valuable insights. The main goal was to understand product performance, customer sentiment, and market trends to help Amazon improve its products, refine marketing efforts, and boost customer engagement.
 
 ## Table of Contents
-1. [The Starting Point Raw Data](#The-Starting-Point-Raw-Data)
-2. [Cleaning Up the Data Making Sense of It All](#Cleaning-Up-the-Data-Making-Sense-of-It-All)
+1. [The Starting Point](#The-Starting-Point)
+2. [Data Cleaning](#Data-Cleaning)
 3. [What typically happens during data cleaning:](#What-typically-happens-during-data-cleaning)
-5. [Visualising the Story The Dashboard](Visualising-the-Story-The-Dashboard)
+5. [The Dashboard](The-Dashboard)
 6. [Key Insights and Recommendations](Key-Insights-and-Recommendations)
   
 
-## 1. The Starting Point: Raw Data
+## 1. The Starting Point
 
 I began with a raw dataset named [Amazon Case Study](Amazon case study (1).xlsx). This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
 
-## 2. Cleaning Up the Data: Making Sense of It All
+## 2. Data Cleaning
 
 Imagine trying to read a book where some words are misspelt, some pages are missing, and some sentences don't make sense. That's what raw data looks like. Disorganised and confusing, so before we can analyse data, we need to "clean" it. This process ensures that the data is accurate, consistent, and ready for analysis.
 
@@ -160,7 +160,7 @@ How we answered it: We created a combined score or ranked products based on both
 
 Insight: These are Amazon's strongest products in terms of customer satisfaction and engagement.
 
-# 4. Visualising the Story: The Dashboard
+# 4. The Dashboard
 
 After analysing all these questions, the next step I took was to create a Dashboard. A dashboard is like a control panel that brings all the important insights together in a visual and easy-to-understand format. Instead of looking at raw numbers, we use charts, graphs, and key performance indicators (KPIs) to tell the data's story at a glance.
 
