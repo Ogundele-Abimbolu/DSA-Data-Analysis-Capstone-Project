@@ -40,7 +40,7 @@ Resulting file: Product Category.csv (likely contains average discount per categ
 
 Insight: We can see which categories are most heavily discounted, which might indicate competitive pricing or clearance sales.
 
-Question 2: How many products are listed under each category?
+**Question 2:** How many products are listed under each category?
 Why it's important: This gives Amazon an overview of its product catalogue's breadth and depth across different categories. It helps identify categories with a large or small number of offerings.
 
 How we answered it: A pivot table was used to count the number of unique products within each category.
@@ -49,7 +49,7 @@ Resulting file: Number of Product.csv
 
 Insight: Some categories might be very saturated with products, while others might have room for expansion.
 
-Question 3: What is the total number of reviews per category?
+**Question 3:** What is the total number of reviews per category?
 Why it's important: This indicates customer engagement and popularity within each product category. Categories with more reviews generally suggest higher customer interest.
 
 How we answered it: We summed up the rating_count for all products within each category using a pivot table.
