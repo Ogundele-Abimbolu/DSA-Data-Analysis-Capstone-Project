@@ -156,7 +156,9 @@ Insight: These are Amazon's strongest products in terms of customer satisfaction
 
 After analysing all these questions, the next step I took was to create a Dashboard. A dashboard is like a control panel that brings all the important insights together in a visual and easy-to-understand format. Instead of looking at raw numbers, we use charts, graphs, and key performance indicators (KPIs) to tell the data's story at a glance.
 
-The ![Dashboard](Capture.PNG) image likely contains the summarised data points and metrics that were used to build the visual dashboard. This dashboard would typically include charts showing:
+   ![Dashboard](Capture.PNG) ,,
+   
+The image likely contains the summarised data points and metrics that were used to build the visual dashboard. This dashboard would typically include charts showing:
 
 Average discount by category.
 
