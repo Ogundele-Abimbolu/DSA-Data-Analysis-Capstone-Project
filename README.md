@@ -160,41 +160,40 @@ After analysing all these questions, the next step I took was to create a Dashbo
    
 The image likely contains the summarised data points and metrics that were used to build the visual dashboard. This dashboard would typically include charts showing:
 
-Average discount by category.
+* Average discount by category.
 
-Number of products per category.
+* Number of products per category.
 
-Total reviews per category.
+* Total reviews per category.
 
-Distribution of product ratings.
+* Distribution of product ratings.
 
-Top-rated products and products with the most reviews.
+* Top-rated products and products with the most reviews.
 
-Insights related to pricing and revenue potential.
+* Insights related to pricing and revenue potential.
 
 This visual representation makes it much easier for Amazon's team to quickly grasp the key findings and make informed decisions without needing to dig through spreadsheets.
 
-# 5. Our Suggestions for Amazon
+# 5. My Suggestions for Amazon
 Based on all the analysis, here are some actionable suggestions for Amazon to guide product improvement, marketing strategies, and customer engagement:
 
 ## For Product Improvement:
-
-📍Focus on High-Rated Products and address the low-rated products: Identify the features and qualities common among products with the highest average ratings. These insights can be used to improve other products or guide new product development, and investigate products with consistently low ratings or a high number of negative reviews. 
-📍Understanding the root causes (e.g., quality issues, misleading descriptions) is crucial for improvement or discontinuation. 
-📍Continuously track the number and sentiment of reviews. A sudden drop in ratings or a surge in negative comments for a specific product should trigger an immediate investigation.
+- Focus on High-Rated Products and address the low-rated products: Identify the features and qualities common among products with the highest average ratings. These insights can be used to improve other products or guide new product development, and investigate products with consistently low ratings or a high number of negative reviews.
+- Understanding the root causes (e.g., quality issues, misleading descriptions) is crucial for improvement or discontinuation.
+- Continuously track the number and sentiment of reviews. A sudden drop in ratings or a surge in negative comments for a specific product should trigger an immediate investigation.
 
 ## For Marketing Strategies:
 
-📍Highlight Top Product Performers: Actively promote the "top 5 products in terms of rating and reviews combined." These products are to be proven customer favourites and can drive more sales. 
-📍You can also analyse the relationship between ratings and discounts. If highly discounted products tend to have lower ratings, consider whether these discounts are effective or if they're just moving unpopular stock. If well-rated products are discounted, ensure these promotions are visible to maximise their impact. 
-📍Lastly, use insights from "average discount percentage by category" and "highest discounts" to create targeted promotional campaigns for specific categories or product types. 
-📍For products with fewer than 1,000 reviews, consider targeted marketing campaigns, special promotions, or encouraging early reviews to increase their visibility and customer engagement.
+- Highlight Top Product Performers: Actively promote the "top 5 products in terms of rating and reviews combined." These products are to be proven customer favourites and can drive more sales.
+- You can also analyse the relationship between ratings and discounts. If highly discounted products tend to have lower ratings, consider whether these discounts are effective or if they're just moving unpopular stock. If well-rated products are discounted, ensure these promotions are visible to maximise their impact.
+- Lastly, use insights from "average discount percentage by category" and "highest discounts" to create targeted promotional campaigns for specific categories or product types.
+- For products with fewer than 1,000 reviews, consider targeted marketing campaigns, special promotions, or encouraging early reviews to increase their visibility and customer engagement.
 
 ## For Customer Engagement:
 
-📍Implement strategies to encourage more customers to leave reviews, especially for newer products or those with low review counts. This could include post-purchase emails or incentives.
-📍Actively monitor and respond to customer reviews, both positive and negative. This shows customers that their feedback is valued and can build trust and loyalty.
-📍Analyse the content of reviews to understand specific customer pain points or delights. This qualitative data is invaluable for product improvement and marketing messaging.
+- Implement strategies to encourage more customers to leave reviews, especially for newer products or those with low review counts. This could include post-purchase emails or incentives.
+- Actively monitor and respond to customer reviews, both positive and negative. This shows customers that their feedback is valued and can build trust and loyalty.
+- Analyse the content of reviews to understand specific customer pain points or delights. This qualitative data is invaluable for product improvement and marketing messaging.
 
 # Conclusion
 
