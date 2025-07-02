@@ -42,7 +42,7 @@ With my data clean and ready, I used a powerful tool called Pivot Tables and Cal
 
 Calculating the discount percentage per category helps Amazon understand which product categories frequently offer high discounts. It can inform pricing strategies and promotional campaigns. I was able to use a pivot table to group products by their category, and then calculated the average of the discount_percentage for each group.
 
-   ![average discount](Total Revenue.jpg) 
+   ![Total Revenue](Total Revenue.jpg) 
 Insight: We can see which categories are most heavily discounted, which might indicate competitive pricing or clearance sales.
 
 **Question 2:** How many products are listed under each category?
