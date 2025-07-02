@@ -10,7 +10,7 @@ Our journey began with a raw dataset named amazon.csv. This file contained a lot
 
 Imagine trying to read a book where some words are misspelt, some pages are missing, and some sentences don't make sense. That's what raw data looks like. Disorganised and confusing, so before we can analyse data, we need to "clean" it. This process ensures that the data is accurate, consistent, and ready for analysis.
 
-For this project, the cleaned data is represented in the Cleaned Data.csv file. 
+For this project, the cleaned data is represented in the [Cleaned_Amazon_Data](Cleaned_Amazon_Data.xlsx) file. 
 
 # What typically happens during data cleaning:
 
