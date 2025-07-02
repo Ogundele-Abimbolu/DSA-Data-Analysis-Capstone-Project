@@ -1,36 +1,40 @@
+# Amazon Product and Customer Review Data Analysis
 
-Amazon Product and Customer Review Data Analysis
 This project involved analysing a dataset of Amazon products and customer reviews to uncover valuable insights. The main goal was to understand product performance, customer sentiment, and market trends to help Amazon improve its products, refine marketing efforts, and boost customer engagement.
 
-1. The Starting Point: Raw Data
+## 1. The Starting Point: Raw Data
+
 Our journey began with a raw dataset named amazon.csv. This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
 
-2. Cleaning Up the Data: Making Sense of It All
-Imagine trying to read a book where some words are misspelt, some pages are missing, and some sentences don't make sense. That's what raw data can sometimes be like! Before we can analyse data, we need to "clean" it. This process ensures the data is accurate, consistent, and ready for analysis.
+## 2. Cleaning Up the Data: Making Sense of It All
 
-For this project, the cleaned data is represented in the Cleaned Data.csv file. Here's what typically happens during data cleaning:
+Imagine trying to read a book where some words are misspelt, some pages are missing, and some sentences don't make sense. That's what raw data looks like. Disorganised and confusing, so before we can analyse data, we need to "clean" it. This process ensures that the data is accurate, consistent, and ready for analysis.
 
-Handling Missing Information: Sometimes, a product might not have a rating or a price listed. We decide how to handle these gaps – sometimes by filling them in with reasonable estimates, or sometimes by removing entries if too much information is missing.
+For this project, the cleaned data is represented in the Cleaned Data.csv file. 
 
-Fixing Data Types: Prices should be numbers so we can do calculations with them. If they were accidentally stored as text, we convert them to numbers.
+# What typically happens during data cleaning:
 
-Removing Duplicates: We check for any identical product entries that might skew our results and remove them.
+**Handling Missing Information:** Sometimes, a product might not have a rating or a price listed. We handle these gaps by filling them in with reasonable estimates, or sometimes by removing entries if too much information is missing.
 
-Creating New Information (Calculated Columns): We also added new pieces of information that weren't directly in the original data but are very useful:
+**Fixing Data Types:** Prices should be numbers so we can do calculations with them. If they were accidentally stored as text, we convert them to numbers.
 
-Discount Percentage: We calculated how much discount each product had by comparing its original price to its discounted price. This helps us understand pricing strategies.
+**Removing Duplicates:** We check for any identical product entries that might skew our results and remove them.
 
-Total Potential Revenue: This was calculated by multiplying  actual_price by the rating_count. It gives us an idea of how much money a product could bring in based on its price and how many people have reviewed it (indicating popularity).
+**Creating New Information (Calculated Columns):** We also added new pieces of information that weren't directly in the original data but are very useful:
 
-3. Answering Key Business Questions with Data
-With our data clean and ready, we used a powerful tool called Pivot Tables and Calculated Columns to answer specific questions posed by the Amazon team. Think of a pivot table as a flexible summary tool that lets you quickly rearrange and summarise data in different ways to find patterns.
+**Discount Percentage:** We calculated how much discount each product had by comparing its original price to its discounted price. This helps us understand pricing strategies.
 
-Here's how we tackled each question and the insights we gained:
+**Total Potential Revenue:** This was calculated by multiplying actual_price by the rating_count. It gives us an idea of how much money a product could bring in based on its price and how many people have reviewed it (indicating popularity).
 
-Question 1: What is the average discount percentage by product category?
-Why it's important: This helps Amazon understand which product categories frequently offer high discounts. It can inform pricing strategies and promotional campaigns.
+## 3. Answering Key Business Questions with Data
 
-How we answered it: We used a pivot table to group products by their category and then calculated the average of the discount_percentage for each group.
+With my data clean and ready, I used a powerful tool called Pivot Tables and Calculated Columns to answer specific questions posed by the Amazon team. Think of a pivot table as a flexible summary tool that lets you quickly rearrange and summarise data in different ways to find patterns.
+
+How I tackled each question and the insights I gained:
+
+**Question 1:** What is the average discount percentage by product category?
+
+Calculating the discount percentage per category helps Amazon understand which product categories frequently offer high discounts. It can inform pricing strategies and promotional campaigns. I was able to use a pivot table to group products by their category, and then calculated the average of the discount_percentage for each group.
 
 Resulting file: Product Category.csv (likely contains average discount per category)
 
