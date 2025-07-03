@@ -12,7 +12,7 @@ This project involved analysing a dataset of Amazon products and customer review
 
 ## 1. The Starting Point
 
-I began with a raw dataset named [Amazon case study (1)](Amazon case study (1).xlsx). This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
+I began with a raw dataset named [Amazon case study (1)](Amazon case study (1).xlsx) This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
 
 ## 2. Data Cleaning
 
