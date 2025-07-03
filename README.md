@@ -12,7 +12,7 @@ This project involved analysing a dataset of Amazon products and customer review
 
 ## 1. The Starting Point
 
-I began with a raw dataset named [Amazon case study (1)](Amazon case study (1).xlsx) This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
+I began with a raw dataset named the Amazon case study. This file contained a lot of information about various products, including their names, categories, prices, ratings, and the number of reviews they received.
 
 ## 2. Data Cleaning
 
@@ -34,7 +34,7 @@ For this project, the cleaned data is represented in the [Cleaned_Amazon_Data](C
 
 **Total Potential Revenue:** This was calculated by multiplying actual_price by the rating_count. It gave me an idea of how much money a product could bring in based on its price and how many people have reviewed it (indicating popularity).
 
-With my data clean and ready, I used a powerful tool called Pivot Tables and Calculated Columns to answer specific questions posed by the Amazon team. Think of a pivot table as a flexible summary tool that lets you quickly rearrange and summarise data in different ways to find patterns.
+With my data clean and ready, I used a powerful tool called Pivot Tables and calculated columns to answer specific questions posed by the Amazon team. Think of a pivot table as a flexible summary tool that lets you quickly rearrange and summarise data in different ways to find patterns.
 
 ## How I tackled each question and the insights I gained:
 
